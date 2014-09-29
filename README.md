@@ -43,7 +43,6 @@ ultimately pulls the string to literally get Deepali on her feet!
 
 We have set a basic timeline in our minds:
 1• Following the midsem week, we will implement the person in our model.
-We have thought of putting a person which resembles something like this:
 2• We are planning on having several joints for the person:- for triggering
 the alarm, and then we need to get him/her to his/her feet as well. This
 may take some time, to get all the joints working fine and in sync. But
@@ -55,7 +54,7 @@ the person, may not be so easy physically. This may require another week.
 4• If the above task if finished on time, then we will require a couple of
 weeks to finalize the other remaining pieces of the puzzle namely, getting
 the person on its feet, the proper positioning of the smaller balls.
-So basically we aim to finish the project by the mid week of October. As for
+5• So basically we aim to finish the project by the mid week of October. As for
 the work distribution, we will be doing the project as a team, and hence all the
 members will be present while we work on it. The smaller bits will be done by
 us depending on our convenience.
